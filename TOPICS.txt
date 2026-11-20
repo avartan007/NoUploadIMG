@@ -1,1 +1,1 @@
-react, typescript, vite, tailwindcss, frontend, webapp, image-processing, privacy, offline-first, client-side, browser-api, portfolio, ui-design, design-systems, developer-tools, no-backend
+react, typescript, vite, tailwindcss, frontend, webapp, image-processing, privacy, offline-first, client-side, browser-api, portfolio, ui-design, design-systems, developer-tools, no-backend, web-performance, image-compression, single-page-app, static-site

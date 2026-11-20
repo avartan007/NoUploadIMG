@@ -5,18 +5,21 @@ file to configure the GitHub repository before publishing.
 
 ## 1. Repository description
 
-Copy into *Settings → General → Description*:
+**Already applied** to `avartan007/NoUploadIMG`. To change it later, use
+*Settings → General → Description*:
 
-> Privacy-first browser image toolkit — 14 tools, zero uploads, single-file build. Portfolio showcase by Avartan Thlay.
+> Privacy-first browser image toolkit — 14 tools, zero uploads, single-file build. Compress, upscale, convert, trace to SVG & scrub metadata. Portfolio showcase by Avartan Thlay.
 
 ## 2. Topics
 
-Copy into *Settings → General → Topics* (also in [`TOPICS.txt`](TOPICS.txt)):
+**Already applied** (20 topics). To change them later, use
+*Settings → General → Topics* (also in [`TOPICS.txt`](TOPICS.txt)):
 
 ```text
 react, typescript, vite, tailwindcss, frontend, webapp, image-processing,
 privacy, offline-first, client-side, browser-api, portfolio, ui-design,
-design-systems, developer-tools, no-backend
+design-systems, developer-tools, no-backend, web-performance,
+image-compression, single-page-app, static-site
 ```
 
 ## 3. Settings
